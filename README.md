@@ -14,4 +14,6 @@ Requirements:
 3. 必須包含一個 ImageView (20%)  
 4. 可同時支援中英文 (5%)  
 5. 繳交前, 記得先執行 Build > Clean Project, 再將專案目錄壓縮, 以避免檔案過大。(5%)  
-6. (加分題) 使用 Modifier 美化排版 (20%)  
+6. (加分題) 使用 Modifier 美化排版 (20%)
+
+Link back to main repo: https://github.com/doongwong2/miniature-adventure
